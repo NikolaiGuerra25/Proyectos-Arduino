@@ -13,8 +13,8 @@
 
 //WiFi
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "LIB-6926517_2.4G"; // Change your Wifi/ Hotspot Name
-char pass[] = "5cnK6gcsBtba"; // Change your Wifi/ Hotspot Password
+char ssid[] = ""; // Change your Wifi/ Hotspot Name
+char pass[] = ""; // Change your Wifi/ Hotspot Password
 
 BlynkTimer timer;
 
